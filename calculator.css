@@ -3,7 +3,7 @@
 	margin: 20px auto;
 	padding: 10px;
 	border-radius: 10px;
-	border: 2px gray solid;
+	border: 2px green solid;
 }
 .calculator .line input[type='text']{
 	display: block;
